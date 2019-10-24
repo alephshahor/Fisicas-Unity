@@ -2,7 +2,7 @@
 
 ## Apariencia de la escena
 
-![Apariencia de la escena](/home/hyydra/Unity Scripts/Fisicas Unity/apariencia_escena.png)
+![Apariencia de la escena](./apariencia_escena.png)
 
 Los elementos de la escena son, referidos según su nombre y color:
 
@@ -150,7 +150,7 @@ Simplemente se inicializan dos semillas aleatorias para el movimiento en el eje 
 
 En primer lugar se crean tres materiales para cada uno de los tonos de rojo ( _**ColorRed**_, _**ColorRed2**_, _**ColorRed3**_ ) que se dispondran en una carpeta llamada _**resources**_.
 
-![Materials](/home/hyydra/Unity Scripts/Fisicas Unity/Materials.png)
+![Materials](./Materials.png)
 
 
 
